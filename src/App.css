@@ -47,17 +47,13 @@
 } */
 
 .mainBody{
-  background-color:rgb(236,232,217) !important ;
-  height: 76vh !important; 
+  background-color:rgb(236,232,217) ;
+  /* height: 76vh !important;  */
 }
 li{
   list-style: none;
 }
 #libre{
   font-family: 'Libre Baskerville', serif;
-}
-
-.parentDiv{
-  display: grid;
-  grid-template-columns: repeat(4,1fr);
+  color: #384b63;
 }
